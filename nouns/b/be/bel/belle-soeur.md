@@ -1,6 +1,6 @@
 # belle-sœur
 
-`belle-sœur` ‘a sister in law’ is a [compound noun](../../../compound-nouns.md).
+`une belle-sœur` ‘a sister in law’ is a [compound noun](../../../compound-nouns.md).
 
 Examples:
 
