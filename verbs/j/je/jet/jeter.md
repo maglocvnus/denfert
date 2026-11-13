@@ -9,7 +9,7 @@ Perfective examples:
 
 ----
 
-Latin **iactō**, **iactāre** *vb.* ‘scatter’; frequentive derivative of **iaciō**, **iacere** *vb.* ‘throw’.
+Etymology: Latin **iactō**, **iactāre** *vb.* ‘scatter’; frequentive derivative of **iaciō**, **iacere** *vb.* ‘throw’.
 
 ----
 
