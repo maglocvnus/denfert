@@ -9,4 +9,8 @@ Perfective examples:
 
 ----
 
+Latin **iactō**, **iactāre** *vb.* ‘scatter’; frequentive derivative of **iaciō**, **iacere** *vb.* ‘throw’.
+
+----
+
 Back up to: [Verbs](../../../index.md) | [Denfert](../../../../index.md)
