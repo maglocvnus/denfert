@@ -5,7 +5,7 @@
 Perfective examples:
 
 > \[Xavier\] comprit qu’elle était irritée. Il chercha à se rappeler ce qu’il avait dit, pendant le dîner : et ses propos lui semblèrent dénués de toute malice. Xavier <mark>soupira</mark>, passa sur son crâne une main fluette. ([*François Mauriac*](../../../../texts/francois-mauriac/le-mystere-frontenac/ch1.md#p1))
-> > *‘Xavier sighed, and ran a slender hand over his bald head’*
+> > *‘Xavier sighed’*
 
 ----
 
