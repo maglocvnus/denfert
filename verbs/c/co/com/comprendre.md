@@ -1,6 +1,6 @@
 # comprendre
 
-`comprendre` ‘understand’ is a [derived verb](../../../derived-verbs.md).
+`comprendre` ‘understand, realise’ is a [derived verb](../../../derived-verbs.md).
 
 *qv.* [**prendre**](../../../p/pr/pre/prendre.md) *vb.* ‘take’
 
