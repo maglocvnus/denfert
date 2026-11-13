@@ -1,6 +1,6 @@
 # main
 
-`une main` ‘a hand’ is a feminine [simple noun](../../../simple-noun.md).
+`une main` ‘a hand’ is a feminine [simple noun](../../../simple-nouns.md).
 
 Examples:
 
