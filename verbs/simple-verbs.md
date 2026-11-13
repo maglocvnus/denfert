@@ -1,10 +1,11 @@
 # Simple verbs
 
-- **[appuyer](a/ap/app/appuyer.md)** *vb.* ‘push, press’
+- [**appeler**](a/ap/app/appeler.md) *vb.* ‘call’
+- [**appuyer**](a/ap/app/appuyer.md) *vb.* ‘push, press’
 - **[battre](b/ba/bat/battre.md)** *vb.* ‘beat’
-- **[jeter](j/je/jet/jeter.md)** *vb.* ‘throw’
+- [**jeter**](j/je/jet/jeter.md) *vb.* ‘throw’
 - **[monter](m/mo/mon/monter.md)** *vb.* ‘ascend’
-- **[tricoter](t/tr/tri/tricoter.md)** *vb.* ‘knit’
+- [**tricoter**](t/tr/tri/tricoter.md) *vb.* ‘knit’
 
 ----
 
