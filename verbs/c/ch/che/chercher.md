@@ -9,4 +9,9 @@ Conative examples:
 
 ----
 
+Latin **circō**, **circāre** *vb.* ‘traverse, wander’; derived from **circus**, **circī** *masc.* ‘a circle, a ring’
+
+
+----
+
 Back up to: [Verbs](../../../index.md) | [Denfert](../../../../index.md)
