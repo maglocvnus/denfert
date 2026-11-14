@@ -9,4 +9,8 @@ Attributive examples:
 
 ----
 
+Latin **timidus**, **timida** *adj.* ‘fearful, timid, cowardly’; derived from **timeō**, **timēre** *vb.* ‘fear, be afraid’.
+
+----
+
 Back up to: [Adjectives](../../../index.md) | [Denfert](../../../../index.md)
