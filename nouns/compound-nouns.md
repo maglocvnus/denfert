@@ -1,6 +1,6 @@
 # Compound nouns
 
-- **[belle-sœur](b/be/bel/belle-soeur.md)** *fem.* ‘a sister-in-law’
+- **[belle-sœur](b/be/bel/belle-sœur.md)** *fem.* ‘a sister-in-law’
 - **[milieu](m/mi/mil/milieu.md)** *masc.* ‘middle, centre’
 
 ----
