@@ -6,6 +6,7 @@
 - [**chercher**](c/ch/che/chercher.md) *vb.* ‘seek, look for’
 - [**jeter**](j/je/jet/jeter.md) *vb.* ‘throw’
 - **[monter](m/mo/mon/monter.md)** *vb.* ‘ascend’
+- [**passer**](p/pa/pas/passer.md) *vb.* ‘pass, go through/past’
 - [**soupirer**](s/so/sou/soupirer.md) *vb.* ‘sigh’
 - [**tricoter**](t/tr/tri/tricoter.md) *vb.* ‘knit’
 
