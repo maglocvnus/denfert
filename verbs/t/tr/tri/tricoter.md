@@ -4,7 +4,7 @@
 
 Past imperfective examples:
 
-> Xavier Frontenac jeta un regard timide sur sa [belle-sœur](../../../../nouns/b/be/bel/belle-soeur.md) qui <mark>tricotait</mark>, le buste droit, sans s’appuyer au dossier de la chaise basse.<br/>
+> Xavier Frontenac jeta un regard timide sur sa [belle-sœur](../../../../nouns/b/be/bel/belle-sœur.md) qui <mark>tricotait</mark>, le buste droit, sans s’appuyer au dossier de la chaise basse.<br/>
 > *‘his sister-in-law who was knitting’ – [François Mauriac](../../../../texts/francois-mauriac/le-mystere-frontenac/ch1.md#p1)*
 
 ----
