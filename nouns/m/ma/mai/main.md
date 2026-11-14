@@ -13,4 +13,4 @@ Latin **manus**, **manūs** *fem.* ‘a hand’.
 
 ----
 
-Back up to: [Adjectives](../../../index.md) | [Denfert](../../../../index.md)
+Back up to: [Nouns](../../../index.md) | [Denfert](../../../../index.md)
