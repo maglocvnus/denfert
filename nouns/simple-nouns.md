@@ -9,6 +9,7 @@
 - **[face](f/fa/fac/face.md)** *fem.* ‘a face’
 - **[lieu](l/li/lie/lieu.md)** *masc.* ‘a place’
 - **[ligne](l/li/lig/ligne.md)** *fem.* ‘a line’
+- [**lit**](l/li/lit/lit.md) *masc.* ‘a bed’
 - [**main**](m/ma/mai/main.md) *fem.* ‘a hand’
 - **[maison](m/ma/mai/maison.md)** *fem.* ‘a house’
 - **[marais](m/ma/mar/marais.md)** *masc.* ‘a marsh’
