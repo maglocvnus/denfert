@@ -2,7 +2,7 @@
 
 `fixer` ‘fix, fasten’ is a [derived verb](../../../derived-verbs.md).
 
-*qv.* [**fixe**](../../../../adjectives/f/fi/fix/fix.md) *adj.* ‘fixed, unable to move’
+*qv.* [**fixe**](../../../../adjectives/f/fi/fix/fixe.md) *adj.* ‘fixed, unable to move’
 
 Perfective examples:
 
