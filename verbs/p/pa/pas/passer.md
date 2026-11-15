@@ -13,4 +13,4 @@ Vulgar Latin **passō**, **passāre** *vb.* ‘go past/through’; derivative of
 
 ----
 
-Back up to: [Nouns](../../../index.md) | [Denfert](../../../../index.md)
+Back up to: [Verbs](../../../index.md) | [Denfert](../../../../index.md)
