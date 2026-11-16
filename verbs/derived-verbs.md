@@ -5,6 +5,7 @@
 - [**fixer**](f/fi/fix/fixer.md) *vb.* ‘fix, fasten’
 - [**rappeler**](r/ra/rap/rappeler.md) *vb.* ‘recall’
 - [**rapprocher**](r/ra/rap/rapprocher.md) *vb.* ‘bring closer to’
+- [**regarder**](r/re/reg/regarder.md) *vb.* ‘look at, watch’
 - **[rhythmer](r/ry/ryt/rythmer.md)** *vb.* ‘to mark the rhythm or beat’
 
 ----
