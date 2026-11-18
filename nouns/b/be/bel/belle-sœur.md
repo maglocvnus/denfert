@@ -2,7 +2,7 @@
 
 `une belle-sœur` ‘a sister-in-law’ is a [compound noun](../../../compound-nouns.md).
 
-*qv.* **belle**, **sœur**
+*qv.* **beau**, [**sœur**](../../../s/so/soe/soeur.md)
 
 Examples:
 
