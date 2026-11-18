@@ -13,6 +13,7 @@
 - [**main**](m/ma/mai/main.md) *fem.* ‘a hand’
 - **[maison](m/ma/mai/maison.md)** *fem.* ‘a house’
 - **[marais](m/ma/mar/marais.md)** *masc.* ‘a marsh’
+- [**obsèques**](o/ob/obs/obsèques.md) *fem. pl.* ‘funeral rites’
 - [**œil**](o/oe/oei/œil.md) *masc.* ‘an eye’
 - **[roue](r/ro/rou/roue.md)** *fem.* ‘a wheel’
 - **[rythme](r/ry/ryt/rythme.md)** *masc.* ‘a rhythm’
