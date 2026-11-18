@@ -1,6 +1,6 @@
 # obsèques
 
-`des obsèques` ‘funeral rites, a funeral’ is a feminine [simple noun](../../../simple-nouns.md), usually only used in the plural.
+`des obsèques` ‘funeral rites, a funeral’ is a feminine plural [simple noun](../../../simple-nouns.md), usually only used in the plural.
 
 Examples:
 
