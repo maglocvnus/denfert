@@ -17,6 +17,7 @@
 - **[roue](r/ro/rou/roue.md)** *fem.* ‘a wheel’
 - **[rythme](r/ry/ryt/rythme.md)** *masc.* ‘a rhythm’
 - **[silence](s/si/sil/silence.md)** *masc.* ‘silence’
+- [**sœur**](s/so/soe/sœur.md) *fem.* ‘a sister’
 - **[voiture](v/vo/voi/voiture.md)** *fem.* ‘a car’
 
 Proper nouns:
