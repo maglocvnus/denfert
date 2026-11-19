@@ -1,6 +1,6 @@
 # détourner
 
-`détourner` ‘divert, redirect’ is a [simple verb](../../../simple-verbs.md). 
+`détourner` ‘divert, redirect’ is a [derived verb](../../../derived-verbs.md). 
 
 *qv.* [**tourner**](../../../t/to/tou/tourner.md) *vb.* ‘turn, go around’
 
