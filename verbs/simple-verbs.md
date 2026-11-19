@@ -7,6 +7,7 @@
 - [**jeter**](j/je/jet/jeter.md) *vb.* ‘throw’
 - **[monter](m/mo/mon/monter.md)** *vb.* ‘ascend’
 - [**passer**](p/pa/pas/passer.md) *vb.* ‘pass, go through/past’
+- [**pouvoir**](p/po/pou/pouvoir.md) *vb.* ‘be able to, can’
 - [**soupirer**](s/so/sou/soupirer.md) *vb.* ‘sigh’
 - [**tricoter**](t/tr/tri/tricoter.md) *vb.* ‘knit’
 
