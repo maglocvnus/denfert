@@ -12,6 +12,7 @@
 - [**soupirer**](s/so/sou/soupirer.md) *vb.* ‘sigh’
 - [**tourner**](t/to/tou/tourner.md) *vb.* ‘turn, go around’
 - [**tricoter**](t/tr/tri/tricoter.md) *vb.* ‘knit’
+- [**quitter**](q/qu/qui/quitter.md) *vb.* ‘leave’
 
 ----
 
