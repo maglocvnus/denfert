@@ -1,5 +1,6 @@
 # Derived nouns
 
+- [**commis**](c/co/com/commis.md) *masc.* ‘a clerk, a sales assistant’
 - **[façade](f/fa/fac/façade.md)** *fem.* ‘a facade’
 - **[maraîcher](m/ma/mar/maraîcher.md)** *masc.* ‘a vegetable grower’
 - **[maraîchage](m/ma/mar/maraîchage.md)** *masc.* ‘early season fruit and vegetable farming’
