@@ -1,5 +1,6 @@
 # Derived verbs
 
+- [**commettre**](c/co/com/commettre.md) *vb.* ‘commit’
 - [**comprendre**](c/co/com/comprendre.md) *vb.* ‘understand, realise’
 - [**détourner**](d/de/det/détourner.md) *vb.* ‘divert, redirect’
 - **[endormir](e/en/end/endormir.md)** *vb.* ‘put to sleep’
