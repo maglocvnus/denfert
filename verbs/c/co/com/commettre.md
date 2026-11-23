@@ -9,4 +9,8 @@ Derivatives:
 
 ----
 
+Latin **committō**, **committere** *vb.* ‘put together’.
+
+----
+
 Back up to: [Verbs](../../../index.md) | [Denfert](../../../../index.md)
