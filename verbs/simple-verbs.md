@@ -6,6 +6,7 @@
 - [**chasser**](c/ch/cha/chasser.md) *vb.* ‘hunt, chase’
 - [**chercher**](c/ch/che/chercher.md) *vb.* ‘seek, look for’
 - [**jeter**](j/je/jet/jeter.md) *vb.* ‘throw’
+- [**mettre**](m/me/met/mettre.md) *vb.* ‘put’
 - **[monter](m/mo/mon/monter.md)** *vb.* ‘ascend’
 - [**passer**](p/pa/pas/passer.md) *vb.* ‘pass, go through/past’
 - [**pouvoir**](p/po/pou/pouvoir.md) *vb.* ‘be able to, can’
