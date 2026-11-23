@@ -2,7 +2,10 @@
 
 `commettre` ‘commit’ is a [derived verb](../../../derived-verbs.md).
 
-*qv.* [**prendre**](../../../p/pr/pre/prendre.md) *vb.* ‘take’
+*qv.* [**mettre**](../../../m/me/met/mettre.md) *vb.* ‘put’
+
+Derivatives:
+- [**commis**](../../../../nouns/c/co/com/commis.md) *masc.* ‘a clerk, a sales assistant’
 
 ----
 
