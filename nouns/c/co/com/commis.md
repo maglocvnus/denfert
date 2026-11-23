@@ -2,7 +2,7 @@
 
 `un commis` ‘a clerk, a sales assistant’ is a masculine [derived noun](../../../derived-nouns.md).
 
-*qv.* **commettre** 
+*qv.* [**commettre**](../../../../verbs/c/co/com/commis.md) *vb.* ‘commit’ 
 
 Examples:
 
