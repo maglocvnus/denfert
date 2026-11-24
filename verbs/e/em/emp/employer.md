@@ -7,7 +7,7 @@
 
 ----
 
-Latin **implicō**, **implicāre** *vb.* ‘enfold, embrace’; derived from **plicō**, **plicāre** *vb.* ‘fold, bend’
+Latin **implicō**, **implicāre** *vb.* ‘enfold, embrace’; derived from **plicō**, **plicāre** *vb.* ‘fold, bend’.
 
 ----
 
