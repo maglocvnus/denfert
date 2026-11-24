@@ -5,6 +5,7 @@
 - **[battre](b/ba/bat/battre.md)** *vb.* ‘beat’
 - [**chasser**](c/ch/cha/chasser.md) *vb.* ‘hunt, chase’
 - [**chercher**](c/ch/che/chercher.md) *vb.* ‘seek, look for’
+- [**déchirer**](d/de/dec/déchirer.md) *vb.* ‘tear, rip (up)’
 - [**destiner**](d/de/des/destiner.md) *vb.* ‘destine, fate’
 - [**employer**](e/em/emp/employer.md) *vb.* ‘use, employ’
 - [**jeter**](j/je/jet/jeter.md) *vb.* ‘throw’
