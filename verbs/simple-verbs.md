@@ -9,6 +9,7 @@
 - [**destiner**](d/de/des/destiner.md) *vb.* ‘destine, fate’
 - [**employer**](e/em/emp/employer.md) *vb.* ‘use, employ’
 - [**jeter**](j/je/jet/jeter.md) *vb.* ‘throw’
+- [**laisser**](l/la/lai/laisser.md) *vb.* ‘let, leave, allow’
 - [**mettre**](m/me/met/mettre.md) *vb.* ‘put’
 - **[monter](m/mo/mon/monter.md)** *vb.* ‘ascend’
 - [**naître**](n/na/nai/naître.md) *vb.* ‘be born’
