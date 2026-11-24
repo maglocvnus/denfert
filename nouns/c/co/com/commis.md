@@ -6,7 +6,7 @@
 
 Examples:
 
-> Elle n’avait pas de dot, pas d’espérances, aucun moyen d’être connue, comprise, aimée, épousée par un homme riche et distingué ; et elle se laissa [marier]() avec un [petit](../../../../adjectives/p/pe/pet/petit.md) <mark>commis</mark> du [ministère](../../../m/mi/min/ministère.md) de l’instruction publique. ([*Guy de Maupassant*](../../../../texts/guy-de-maupassant/la-parure.md#p1))
+> Elle n’avait pas de dot, pas d’espérances, aucun moyen d’être connue, comprise, aimée, épousée par un homme riche et distingué ; et elle se laissa [marier](../../../../verbs/m/ma/mar/marier.md) avec un [petit](../../../../adjectives/p/pe/pet/petit.md) <mark>commis</mark> du [ministère](../../../m/mi/min/ministère.md) de l’instruction publique. ([*Guy de Maupassant*](../../../../texts/guy-de-maupassant/la-parure.md#p1))
 > > ‘a petty clerk in the office of the Board of Education’
 
 ----
