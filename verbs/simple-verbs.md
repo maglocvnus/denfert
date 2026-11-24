@@ -8,6 +8,7 @@
 - [**jeter**](j/je/jet/jeter.md) *vb.* ‘throw’
 - [**mettre**](m/me/met/mettre.md) *vb.* ‘put’
 - **[monter](m/mo/mon/monter.md)** *vb.* ‘ascend’
+- [**naître**](n/na/nai/naître.md) *vb.* ‘be born’
 - [**passer**](p/pa/pas/passer.md) *vb.* ‘pass, go through/past’
 - [**pouvoir**](p/po/pou/pouvoir.md) *vb.* ‘be able to, can’
 - [**soupirer**](s/so/sou/soupirer.md) *vb.* ‘sigh’
