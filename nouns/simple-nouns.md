@@ -8,6 +8,7 @@
 - **[désert](d/de/des/désert.md)** *masc.* ‘a desert’
 - **[écho](e/ec/ech/écho.md)** *masc.* ‘an echo’
 - **[face](f/fa/fac/face.md)** *fem.* ‘a face’
+- **[fille](f/fi/fil/fille.md)** *fem.* ‘a girl, a young woman’
 - **[lieu](l/li/lie/lieu.md)** *masc.* ‘a place’
 - **[ligne](l/li/lig/ligne.md)** *fem.* ‘a line’
 - [**lit**](l/li/lit/lit.md) *masc.* ‘a bed’
