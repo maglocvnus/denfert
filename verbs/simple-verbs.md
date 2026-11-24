@@ -5,6 +5,7 @@
 - **[battre](b/ba/bat/battre.md)** *vb.* ‘beat’
 - [**chasser**](c/ch/cha/chasser.md) *vb.* ‘hunt, chase’
 - [**chercher**](c/ch/che/chercher.md) *vb.* ‘seek, look for’
+- [**employer**](e/em/emp/employer.md) *vb.* ‘use, employ’
 - [**jeter**](j/je/jet/jeter.md) *vb.* ‘throw’
 - [**mettre**](m/me/met/mettre.md) *vb.* ‘put’
 - **[monter](m/mo/mon/monter.md)** *vb.* ‘ascend’
