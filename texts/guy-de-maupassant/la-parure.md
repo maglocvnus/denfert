@@ -5,35 +5,50 @@
 
 She was one of those pretty, charming young ladies, born, as if through an error of destiny, into a family of clerks. She had no dowry, no hopes, no means of becoming known, appreciated, loved, and married by a man either rich or distinguished; and she allowed herself to marry a petty clerk in the office of the Board of Education.
 
+<a id="p2"></a>
 > Elle fut simple ne pouvant être parée, mais malheureuse comme une déclassée ; car les femmes n’ont point de caste ni de race, leur beauté, leur grâce et leur charme leur servant de naissance et de famille. Leur finesse native, leur instinct d’élégance, leur souplesse d’esprit, sont leur seule hiérarchie, et font des filles du peuple les égales des plus grandes dames.
 
 She was simple, not being able to adorn herself; but she was unhappy, as one out of her class; for women belong to no caste, no race; their grace, their beauty, and their charm serving them in the place of birth and family. Their inborn finesse, their instinctive elegance, their suppleness of wit are their only aristocracy, making some daughters of the people the equal of great ladies.
 
+<a id="p3"></a>
 > Elle souffrait sans cesse, se sentant née pour toutes les délicatesses et tous les luxes. Elle souffrait de la pauvreté de son logement, de la misère des murs, de l’usure des sièges, de la laideur des étoffes. Toutes ces choses, dont une autre femme de sa caste ne se serait même pas aperçue, la torturaient et l’indignaient. La vue de la petite Bretonne qui faisait son humble ménage éveillait en elle des regrets désolés et des rêves éperdus. Elle songeait aux antichambres muettes, capitonnées avec des tentures orientales, éclairées par de hautes torchères de bronze, et aux deux grands valets en culotte courte qui dorment dans les larges fauteuils, assoupis par la chaleur lourde du calorifère. Elle songeait aux grands salons vêtus de soie ancienne, aux meubles fins portant des bibelots inestimables, et aux petits salons coquets, parfumés, faits pour la causerie de cinq heures avec les amis les plus intimes, les hommes connus et recherchés dont toutes les femmes envient et désirent l’attention.
 
 She suffered incessantly, feeling herself born for all delicacies and luxuries. She suffered from the poverty of her apartment, the shabby walls, the worn chairs, and the faded stuffs. All these things, which another woman of her station would not have noticed, tortured and angered her. The sight of the little Breton, who made this humble home, awoke in her sad regrets and desperate dreams. She thought of quiet antechambers, with their Oriental hangings, lighted by high, bronze torches, and of the two great footmen in short trousers who sleep in the large armchairs, made sleepy by the heavy air from the heating apparatus. She thought of large drawing-rooms, hung in old silks, of graceful pieces of furniture carrying bric-a-brac of inestimable value, and of the little perfumed coquettish apartments, made for five o'clock chats with most intimate friends, men known and sought after, whose attention all women envied and desired.
 
+<a id="p4"></a>
 > Quand elle s’asseyait, pour dîner, devant la table ronde couverte d’une nappe de trois jours, en face de son mari qui découvrait la soupière en déclarant d’un air enchanté : « Ah ! le bon pot-au-feu ! je ne sais rien de meilleur que cela… », elle songeait aux dîners fins, aux argenteries reluisantes, aux tapisseries peuplant les murailles de personnages anciens et d’oiseaux étranges au milieu d’une forêt de féerie ; elle songeait aux plats exquis servis en des vaisselles merveilleuses, aux galanteries chuchotées et écoutées avec un sourire de sphinx, tout en mangeant la chair rose d’une truite ou des ailes de gélinotte.
 
 When she seated herself for dinner, before the round table where the table-cloth had been used three days, opposite her husband who uncovered the tureen with a delighted air, saying: "Oh! the good potpie! I know nothing better than that—" she would think of the elegant dinners, of the shining silver, of the tapestries peopling the walls with ancient personages and rare birds in the midst of fairy forests; she thought of the exquisite food served on marvelous dishes, of the whispered gallantries, listened to with the smile of the sphinx, while eating the rose-colored flesh of the trout or a chicken's wing.
 
+<a id="p5"></a>
 > Elle n’avait pas de toilettes, pas de bijoux, rien. Et elle n’aimait que cela ; elle se sentait faite pour cela. Elle eût tant désiré plaire, être enviée, être séduisante et recherchée.
 
 She had neither frocks nor jewels, nothing. And she loved only those things. She felt that she was made for them. She had such a desire to please, to be sought after, to be clever, and courted.
 
+<a id="p6"></a>
 > Elle avait une amie riche, une camarade de couvent qu’elle ne voulait plus aller voir, tant elle souffrait en revenant. Et elle pleurait pendant des jours entiers, de chagrin, de regret, de désespoir et de détresse.
 
 She had a rich friend, a schoolmate at the convent, whom she did not like to visit, she suffered so much when she returned. And she wept for whole days from chagrin, from regret, from despair, and disappointment.
 
 ----
 
+<a id="p7"></a>
 > Or, un soir, son mari rentra, l’air glorieux, et tenant à la main une large enveloppe.
+> 
+> — Tiens, dit-il, voici quelque chose pour toi.
 
-— Tiens, dit-il, voici quelque chose pour toi.
+One evening her husband returned elated bearing in his hand a large envelope.
+"Here," he said, "here is something for you."
 
-Elle déchira vivement le papier et en tira une carte qui portait ces mots :
+> Elle [déchira](../../verbs/d/de/dec/déchirer.md) vivement le papier et en tira une carte qui portait ces mots :
+> 
+> « Le ministre de l’instruction publique et Mme Georges Ramponneau prient M. et Mme Loisel de leur faire l’honneur de venir passer la soirée à l’hôtel du ministère, le lundi 18 janvier. »
 
-« Le ministre de l’instruction publique et Mme Georges Ramponneau prient M. et Mme Loisel de leur faire l’honneur de venir passer la soirée à l’hôtel du ministère, le lundi 18 janvier. »
+She quickly tore open the wrapper and drew out a printed card on which were inscribed these words:
+"The Minister of Public Instruction and Madame George Ramponneau ask the honor of Mr. and Mrs. Loisel's company Monday evening, January 18, at the Minister's residence."
+
+
+
 
 Au lieu d’être ravie, comme l’espérait son mari, elle jeta avec dépit l’invitation sur la table, murmurant :
 
@@ -73,14 +88,7 @@ Il dit cependant :
 
 — Soit. Je te donne quatre cents francs. Mais tâche d’avoir une belle robe.
 
-One evening her husband returned elated bearing in his hand a large envelope.
 
-"Here," he said, "here is something for you."
-
-She quickly tore open the wrapper and drew out a printed card on which were inscribed these words:
-
-
-"The Minister of Public Instruction and Madame George Ramponneau ask the honor of Mr. and Mrs. Loisel's company Monday evening, January 18, at the Minister's residence."
 
 
 Instead of being delighted, as her husband had hoped, she threw the invitation spitefully upon the table murmuring:
