@@ -1,5 +1,6 @@
 # Derived verbs
 
+- [**charmer**](c/ch/cha/charmer.md) *vb.* ‘charm’
 - [**commettre**](c/co/com/commettre.md) *vb.* ‘commit’
 - [**comprendre**](c/co/com/comprendre.md) *vb.* ‘understand, realise’
 - [**détourner**](d/de/det/détourner.md) *vb.* ‘divert, redirect’
