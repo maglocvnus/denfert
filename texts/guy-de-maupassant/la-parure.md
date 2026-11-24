@@ -1,7 +1,7 @@
 # La Parure
 
 <a id="p1"></a>
-> C’était une de ces [jolies](../../adjectives/j/jo/jol/jolie.md) et [charmantes](../../adjectives/c/ch/cha/charmant.md) [filles](../../nouns/f/fi/fil/fille.md), nées, comme par une erreur du destin, dans une famille d’employés. Elle n’avait pas de dot, pas d’espérances, aucun moyen d’être connue, comprise, aimée, épousée par un homme riche et distingué ; et elle se laissa marier avec un petit [commis](../../nouns/c/co/com/commis.md) du ministère de l’instruction publique.
+> C’était une de ces [jolies](../../adjectives/j/jo/jol/joli.md) et [charmantes](../../adjectives/c/ch/cha/charmant.md) [filles](../../nouns/f/fi/fil/fille.md), nées, comme par une erreur du destin, dans une famille d’employés. Elle n’avait pas de dot, pas d’espérances, aucun moyen d’être connue, comprise, aimée, épousée par un homme riche et distingué ; et elle se laissa marier avec un petit [commis](../../nouns/c/co/com/commis.md) du ministère de l’instruction publique.
 
 She was one of those pretty, charming young ladies, born, as if through an error of destiny, into a family of clerks. She had no dowry, no hopes, no means of becoming known, appreciated, loved, and married by a man either rich or distinguished; and she allowed herself to marry a petty clerk in the office of the Board of Education.
 
