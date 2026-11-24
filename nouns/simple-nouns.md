@@ -3,6 +3,7 @@
 - **[avenue](a/av/ave/avenue.md)** *fem.* ‘an avenue’
 - **[bord](b/bo/bor/bord.md)** *masc.* ‘a border’
 - **[cahot](c/ca/cah/cahot.md)** *masc.* ‘a jolt’
+- [**charme**](c/ch/cha/charme.md) *masc.* ‘(a) charm, an enchantment, glamour’
 - [**crâne**](c/cr/cra/crâne.md) *masc.* ‘a skull, cranium’
 - **[désert](d/de/des/désert.md)** *masc.* ‘a desert’
 - **[écho](e/ec/ech/écho.md)** *masc.* ‘an echo’
