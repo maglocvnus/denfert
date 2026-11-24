@@ -1,6 +1,6 @@
 # charme
 
-`(un) charme` ‘(a) charme, an enchantment, glamour’ is a [simple noun](../../../simple-nouns.md).
+`(un) charme` ‘(a) charm, an enchantment, glamour’ is a [simple noun](../../../simple-nouns.md).
 
 Derivatives:
 - [**charmer**](../../../../verbs/c/ch/cha/charme.md) *vb.* ‘charm’
