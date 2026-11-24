@@ -7,6 +7,7 @@
 - [**crâne**](c/cr/cra/crâne.md) *masc.* ‘a skull, cranium’
 - **[désert](d/de/des/désert.md)** *masc.* ‘a desert’
 - **[écho](e/ec/ech/écho.md)** *masc.* ‘an echo’
+- [**erreur**](e/er/err/erreur.md) *fem.* ‘an error, a mistake’
 - **[face](f/fa/fac/face.md)** *fem.* ‘a face’
 - **[famille](f/fa/fam/famille.md)** *fem.* ‘a family’
 - **[fille](f/fi/fil/fille.md)** *fem.* ‘a girl, a young woman’
