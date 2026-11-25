@@ -36,28 +36,23 @@ She had a rich friend, a schoolmate at the convent, whom she did not like to vis
 > Or, un soir, son mari [rentra](../../verbs/r/re/ren/rentrer.md), l’air glorieux, et tenant à la main une large enveloppe.
 > 
 > — Tiens, dit-il, voici quelque chose pour toi.
-
-One evening her husband returned elated bearing in his hand a large envelope.
-"Here," he said, "here is something for you."
-
+>
 > Elle [déchira](../../verbs/d/de/dec/déchirer.md) vivement le papier et en [tira](../../verbs/t/ti/tir/tirer.md) une carte qui portait ces mots :
 > 
 > « Le ministre de l’instruction publique et Mme Georges Ramponneau prient M. et Mme Loisel de leur faire l’honneur de venir passer la soirée à l’hôtel du ministère, le lundi 18 janvier. »
 
+One evening her husband returned elated bearing in his hand a large envelope.
+"Here," he said, "here is something for you."
 She quickly tore open the wrapper and drew out a printed card on which were inscribed these words:
-"The Minister of Public Instruction and Madame George Ramponneau ask the honor of Mr. and Mrs. Loisel's company Monday evening, January 18, at the Minister's residence."
+"The Minister of Public Instruction and Madame George Ramponneau ask the honor of Mr. and Mrs. Loisel's company Monday evening, January 18, at the Minister's residence." 
 
 <a id="p8"></a>
 > Au lieu d’être ravie, comme l’espérait son mari, elle [jeta](../../verbs/j/je/jet/jeter.md) avec dépit l’invitation sur la table, murmurant :
 > 
 > — Que veux-tu que je fasse de cela ?
 > 
-> – Mais, ma chérie, je pensais que tu serais contente. Tu ne sors jamais, et c’est une occasion, cela, une belle ! J’ai eu une peine infinie à l’obtenir. Tout le monde en veut ; c’est très recherché et on n’en donne pas beaucoup aux employés. Tu verras là tout le monde officiel.
-
-Instead of being delighted, as her husband had hoped, she threw the invitation spitefully upon the table murmuring:
-"What do you suppose I want with that?"
-"But, my dearie, I thought it would make you happy. You never go out, and this is an occasion, and a fine one! I had a great deal of trouble to get it. Everybody wishes one, and it is very select; not many are given to employees. You will see the whole official world there."
-
+> — Mais, ma chérie, je pensais que tu serais contente. Tu ne sors jamais, et c’est une occasion, cela, une belle ! J’ai eu une peine infinie à l’obtenir. Tout le monde en veut ; c’est très recherché et on n’en donne pas beaucoup aux employés. Tu verras là tout le monde officiel.
+> 
 > Elle le regardait d’un œil irrité, et elle [déclara](../../verbs/d/de/dec/déclarer.md) avec impatience :
 > 
 > — Que veux-tu que je me mette sur le dos pour aller là ?
@@ -66,23 +61,35 @@ Instead of being delighted, as her husband had hoped, she threw the invitation s
 > 
 > — Mais la robe avec laquelle tu vas au théâtre. Elle me semble très bien, à moi…
 
+Instead of being delighted, as her husband had hoped, she threw the invitation spitefully upon the table murmuring:
+"What do you suppose I want with that?"
+"But, my dearie, I thought it would make you happy. You never go out, and this is an occasion, and a fine one! I had a great deal of trouble to get it. Everybody wishes one, and it is very select; not many are given to employees. You will see the whole official world there."
 She looked at him with an irritated eye and declared impatiently:
 "What do you suppose I have to wear to such a thing as that?"
 He had not thought of that; he stammered:
 "Why, the dress you wear when we go to the theater. It seems very pretty to me—"
 
+<a id="p9"></a>
+> Il se tut, stupéfait, éperdu, en voyant que sa femme pleurait. Deux grosses larmes descendaient lentement des coins des yeux vers les coins de la bouche ; il bégaya :
+>
+> — Qu’as-tu ? qu’as-tu ?
+> 
+> Mais, par un effort violent, elle avait dompté sa peine et elle répondit d’une voix calme en essuyant ses joues humides :
+> 
+> — Rien. Seulement je n’ai pas de toilette et par conséquent je ne peux aller à cette fête. Donne ta carte à quelque collègue dont la femme sera mieux nippée que moi.
+> 
+> Il était désolé. Il reprit :
+>
+> — Voyons, Mathilde. Combien cela coûterait-il, une toilette convenable, qui pourrait te servir encore en d’autres occasions, quelque chose de très simple ?
 
-Il se tut, stupéfait, éperdu, en voyant que sa femme pleurait. Deux grosses larmes descendaient lentement des coins des yeux vers les coins de la bouche ; il bégaya :
+He was silent, stupefied, in dismay, at the sight of his wife weeping. Two great tears fell slowly from the corners of his eyes toward the corners of his mouth; he stammered:
+"What is the matter? What is the matter?"
+By a violent effort, she had controlled her vexation and responded in a calm voice, wiping her moist cheeks:
+"Nothing. Only I have no dress and consequently I cannot go to this affair. Give your card to some colleague whose wife is better fitted out than I."
+He was grieved, but answered:
+"Let us see, Matilda. How much would a suitable costume cost, something that would serve for other occasions, something very simple?"
 
-— Qu’as-tu ? qu’as-tu ?
-
-Mais, par un effort violent, elle avait dompté sa peine et elle répondit d’une voix calme en essuyant ses joues humides :
-
-— Rien. Seulement je n’ai pas de toilette et par conséquent je ne peux aller à cette fête. Donne ta carte à quelque collègue dont la femme sera mieux nippée que moi.
-
-Il était désolé. Il reprit :
-
-— Voyons, Mathilde. Combien cela coûterait-il, une toilette convenable, qui pourrait te servir encore en d’autres occasions, quelque chose de très simple ?
+<a id="p10"></a>
 
 Elle réfléchit quelques secondes, établissant ses comptes et songeant aussi à la somme qu’elle pouvait demander sans s’attirer un refus immédiat et une exclamation effarée du commis économe.
 
@@ -96,25 +103,6 @@ Il dit cependant :
 
 — Soit. Je te donne quatre cents francs. Mais tâche d’avoir une belle robe.
 
-
-
-
-
-
-
-
-He was silent, stupefied, in dismay, at the sight of his wife weeping. Two great tears fell slowly from the corners of his eyes toward the corners of his mouth; he stammered:
-
-"What is the matter? What is the matter?"
-
-By a violent effort, she had controlled her vexation and responded in a calm voice, wiping her moist cheeks:
-
-"Nothing. Only I have no dress and consequently I cannot go to this affair. Give your card to some colleague whose wife is better fitted out than I."
-
-He was grieved, but answered:
-
-"Let us see, Matilda. How much would a suitable costume cost, something that would serve for other occasions, something very simple?"
-
 She reflected for some seconds, making estimates and thinking of a sum that she could ask for without bringing with it an immediate refusal and a frightened exclamation from the economical clerk.
 
 Finally she said, in a hesitating voice:
@@ -126,6 +114,8 @@ He turned a little pale, for he had saved just this sum to buy a gun that he mig
 "Very well. I will give you four hundred francs. But try to have a pretty dress."
 
 ----
+
+<a id="p11"></a>
 
 Le jour de la fête approchait, et Mme Loisel semblait triste, inquiète, anxieuse. Sa toilette était prête cependant. Son mari lui dit un soir :
 
