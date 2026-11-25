@@ -58,9 +58,12 @@ Instead of being delighted, as her husband had hoped, she threw the invitation s
 "What do you suppose I want with that?"
 "But, my dearie, I thought it would make you happy. You never go out, and this is an occasion, and a fine one! I had a great deal of trouble to get it. Everybody wishes one, and it is very select; not many are given to employees. You will see the whole official world there."
 
-> Elle le regardait d’un œil irrité, et elle déclara avec impatience :
+> Elle le regardait d’un œil irrité, et elle [déclara](../../verbs/d/de/dec/déclarer.md) avec impatience :
+> 
 > — Que veux-tu que je me mette sur le dos pour aller là ?
-> Il n’y avait pas songé ; il balbutia :
+> 
+> Il n’y avait pas songé ; il [balbutia](../../verbs/b/ba/bal/balbutier.md) :
+> 
 > — Mais la robe avec laquelle tu vas au théâtre. Elle me semble très bien, à moi…
 
 She looked at him with an irritated eye and declared impatiently:
