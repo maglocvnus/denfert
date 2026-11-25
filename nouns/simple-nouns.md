@@ -6,6 +6,7 @@
 - [**charme**](c/ch/cha/charme.md) *masc.* ‘(a) charm, an enchantment, glamour’
 - [**crâne**](c/cr/cra/crâne.md) *masc.* ‘a skull, cranium’
 - **[désert](d/de/des/désert.md)** *masc.* ‘a desert’
+- [**dot**](d/do/dot/dot.md) *fem.* ‘a dowry, a marriage portion’
 - **[écho](e/ec/ech/écho.md)** *masc.* ‘an echo’
 - [**erreur**](e/er/err/erreur.md) *fem.* ‘an error, a mistake’
 - **[face](f/fa/fac/face.md)** *fem.* ‘a face’
