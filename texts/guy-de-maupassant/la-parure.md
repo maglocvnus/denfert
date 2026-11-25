@@ -40,29 +40,33 @@ She had a rich friend, a schoolmate at the convent, whom she did not like to vis
 One evening her husband returned elated bearing in his hand a large envelope.
 "Here," he said, "here is something for you."
 
-> Elle [déchira](../../verbs/d/de/dec/déchirer.md) vivement le papier et en tira une carte qui portait ces mots :
+> Elle [déchira](../../verbs/d/de/dec/déchirer.md) vivement le papier et en [tira](../../verbs/t/ti/tir/tirer.md) une carte qui portait ces mots :
 > 
 > « Le ministre de l’instruction publique et Mme Georges Ramponneau prient M. et Mme Loisel de leur faire l’honneur de venir passer la soirée à l’hôtel du ministère, le lundi 18 janvier. »
 
 She quickly tore open the wrapper and drew out a printed card on which were inscribed these words:
 "The Minister of Public Instruction and Madame George Ramponneau ask the honor of Mr. and Mrs. Loisel's company Monday evening, January 18, at the Minister's residence."
 
+> Au lieu d’être ravie, comme l’espérait son mari, elle [jeta](../../verbs/j/je/jet/jeter.md) avec dépit l’invitation sur la table, murmurant :
+> 
+> — Que veux-tu que je fasse de cela ?
+> 
+> – Mais, ma chérie, je pensais que tu serais contente. Tu ne sors jamais, et c’est une occasion, cela, une belle ! J’ai eu une peine infinie à l’obtenir. Tout le monde en veut ; c’est très recherché et on n’en donne pas beaucoup aux employés. Tu verras là tout le monde officiel.
 
+Instead of being delighted, as her husband had hoped, she threw the invitation spitefully upon the table murmuring:
+"What do you suppose I want with that?"
+"But, my dearie, I thought it would make you happy. You never go out, and this is an occasion, and a fine one! I had a great deal of trouble to get it. Everybody wishes one, and it is very select; not many are given to employees. You will see the whole official world there."
 
+> Elle le regardait d’un œil irrité, et elle déclara avec impatience :
+> — Que veux-tu que je me mette sur le dos pour aller là ?
+> Il n’y avait pas songé ; il balbutia :
+> — Mais la robe avec laquelle tu vas au théâtre. Elle me semble très bien, à moi…
 
-Au lieu d’être ravie, comme l’espérait son mari, elle jeta avec dépit l’invitation sur la table, murmurant :
+She looked at him with an irritated eye and declared impatiently:
+"What do you suppose I have to wear to such a thing as that?"
+He had not thought of that; he stammered:
+"Why, the dress you wear when we go to the theater. It seems very pretty to me—"
 
-— Que veux-tu que je fasse de cela ?
-
-— Mais, ma chérie, je pensais que tu serais contente. Tu ne sors jamais, et c’est une occasion, cela, une belle ! J’ai eu une peine infinie à l’obtenir. Tout le monde en veut ; c’est très recherché et on n’en donne pas beaucoup aux employés. Tu verras là tout le monde officiel.
-
-Elle le regardait d’un œil irrité, et elle déclara avec impatience :
-
-— Que veux-tu que je me mette sur le dos pour aller là ?
-
-Il n’y avait pas songé ; il balbutia :
-
-— Mais la robe avec laquelle tu vas au théâtre. Elle me semble très bien, à moi…
 
 Il se tut, stupéfait, éperdu, en voyant que sa femme pleurait. Deux grosses larmes descendaient lentement des coins des yeux vers les coins de la bouche ; il bégaya :
 
@@ -91,19 +95,9 @@ Il dit cependant :
 
 
 
-Instead of being delighted, as her husband had hoped, she threw the invitation spitefully upon the table murmuring:
 
-"What do you suppose I want with that?"
 
-"But, my dearie, I thought it would make you happy. You never go out, and this is an occasion, and a fine one! I had a great deal of trouble to get it. Everybody wishes one, and it is very select; not many are given to employees. You will see the whole official world there."
 
-She looked at him with an irritated eye and declared impatiently:
-
-"What do you suppose I have to wear to such a thing as that?"
-
-He had not thought of that; he stammered:
-
-"Why, the dress you wear when we go to the theater. It seems very pretty to me—"
 
 He was silent, stupefied, in dismay, at the sight of his wife weeping. Two great tears fell slowly from the corners of his eyes toward the corners of his mouth; he stammered:
 
