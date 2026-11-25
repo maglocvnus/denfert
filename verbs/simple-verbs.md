@@ -1,5 +1,6 @@
 # Simple verbs
 
+- [**annoncer**](a/an/ann/annoncer.md) *vb.* ‘announce’
 - [**appeler**](a/ap/app/appeler.md) *vb.* ‘call’
 - [**appuyer**](a/ap/app/appuyer.md) *vb.* ‘push, press’
 - **[battre](b/ba/bat/battre.md)** *vb.* ‘beat’
