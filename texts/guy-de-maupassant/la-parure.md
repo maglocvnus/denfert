@@ -47,6 +47,7 @@ One evening her husband returned elated bearing in his hand a large envelope.
 She quickly tore open the wrapper and drew out a printed card on which were inscribed these words:
 "The Minister of Public Instruction and Madame George Ramponneau ask the honor of Mr. and Mrs. Loisel's company Monday evening, January 18, at the Minister's residence."
 
+<a id="p8"></a>
 > Au lieu d’être ravie, comme l’espérait son mari, elle [jeta](../../verbs/j/je/jet/jeter.md) avec dépit l’invitation sur la table, murmurant :
 > 
 > — Que veux-tu que je fasse de cela ?
