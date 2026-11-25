@@ -18,6 +18,7 @@
 - [**passer**](p/pa/pas/passer.md) *vb.* ‘pass, go through/past’
 - [**pouvoir**](p/po/pou/pouvoir.md) *vb.* ‘be able to, can’
 - [**soupirer**](s/so/sou/soupirer.md) *vb.* ‘sigh’
+- [**tirer**](t/ti/tir/tirer.md) *vb.* ‘pull, draw’
 - [**tourner**](t/to/tou/tourner.md) *vb.* ‘turn, go around’
 - [**tricoter**](t/tr/tri/tricoter.md) *vb.* ‘knit’
 - [**quitter**](q/qu/qui/quitter.md) *vb.* ‘leave’
