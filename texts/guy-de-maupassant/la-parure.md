@@ -33,7 +33,7 @@ She had a rich friend, a schoolmate at the convent, whom she did not like to vis
 ----
 
 <a id="p7"></a>
-> Or, un soir, son mari rentra, l’air glorieux, et tenant à la main une large enveloppe.
+> Or, un soir, son mari [rentra](../../verbs/r/re/ren/rentrer.md), l’air glorieux, et tenant à la main une large enveloppe.
 > 
 > — Tiens, dit-il, voici quelque chose pour toi.
 
