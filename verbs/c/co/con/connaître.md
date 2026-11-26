@@ -1,6 +1,6 @@
 # connaître
 
-`connaître` ‘know, be acquainted with’ is a [simple verb](../../../simple-verbs.md).
+`connaître` ‘know (of), be acquainted with’ is a [simple verb](../../../simple-verbs.md).
 
 Passive examples:
 
