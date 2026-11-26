@@ -1,6 +1,6 @@
 # espérer
 
-`espérer` ‘hope’ is a simple verb.
+`espérer` ‘hope’ is a [simple verb](../../../simple-verbs.md).
 
 Derivatives:
 - [**espoir**](../../../../nouns/e/es/esp/espoir.md) *masc.* ‘(a) hope’
