@@ -4,6 +4,7 @@
 - [**commettre**](c/co/com/commettre.md) *vb.* ‘commit’
 - [**comprendre**](c/co/com/comprendre.md) *vb.* ‘understand, realise’
 - [**détourner**](d/de/det/détourner.md) *vb.* ‘divert, redirect’
+- [**désespérer**](d/de/des/désespérer.md) *vb.* ‘despair’
 - **[endormir](e/en/end/endormir.md)** *vb.* ‘put to sleep’
 - [**fixer**](f/fi/fix/fixer.md) *vb.* ‘fix, fasten’
 - [**rappeler**](r/ra/rap/rappeler.md) *vb.* ‘recall’
