@@ -6,7 +6,7 @@
 
 Examples:
 
-> C’était une de ces jolies et charmantes [filles](../../../f/fi/fil/fille.md), nées, comme par une erreur du destin, dans une famille d’employés. Elle n’avait pas de dot, pas d’<mark>espérances</mark>, aucun moyen d’être connue, comprise, aimée, [épousée](../../../../verbs/e/ep/epo/épouser.md) par un homme riche et distingué ; et elle se laissa [marier](../../../../verbs/m/ma/mar/marier.md) avec un petit commis du ministère de l’instruction publique. ([*Guy de Maupassant*](../../../../texts/guy-de-maupassant/la-parure.md#p1))
+> C’était une de ces jolies et charmantes [filles](../../../f/fi/fil/fille.md), nées, comme par une erreur du destin, dans une famille d’employés. Elle n’avait pas de dot, pas d’<mark>espérances</mark>, aucun moyen d’être connue, comprise, aimée, épousée par un homme riche et distingué ; et elle se laissa marier avec un petit commis du ministère de l’instruction publique. ([*Guy de Maupassant*](../../../../texts/guy-de-maupassant/la-parure.md#p1))
 > > *‘the girl had no hopes’*
 
 ----
