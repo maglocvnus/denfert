@@ -5,7 +5,7 @@
 *qv.* [**espérer**](../../../e/es/esp/espérer.md) *vb.* ‘hope’
 
 Derivatives:
-- [**désespoir**](../../../../nouns/d/de/dés/désespoir.md) *masc.* ‘despair’
+- [**désespoir**](../../../../nouns/d/de/des/désespoir.md) *masc.* ‘despair’
 
 ---
 
