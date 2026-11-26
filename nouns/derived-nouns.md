@@ -1,6 +1,7 @@
 # Derived nouns
 
 - [**commis**](c/co/com/commis.md) *masc.* ‘a clerk, a sales assistant’
+- [**désespoir**](d/de/des/désespoir.md) *masc.* ‘despair’
 - [**destin**](d/de/des/destin.md) *masc.* ‘destiny, fate’
 - [**employé**](e/em/emp/employé.md) *masc.* ‘an employee, a clerk’
 - [**espérance**](e/es/esp/espérance.md) *fem.* ‘a hope’
