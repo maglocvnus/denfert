@@ -10,6 +10,7 @@
 - [**destiner**](d/de/des/destiner.md) *vb.* ‘destine, fate’
 - [**employer**](e/em/emp/employer.md) *vb.* ‘use, employ’
 - [**épouser**](e/ep/epo/épouser.md) *vb.* ‘marry, wed’
+- [**espérerer**](e/es/esp/espérer.md) *vb.* ‘hope’
 - [**jeter**](j/je/jet/jeter.md) *vb.* ‘throw’
 - [**laisser**](l/la/lai/laisser.md) *vb.* ‘let, leave, allow’
 - [**marier**](m/ma/mar/marier.md) *vb.* ‘marry, wed’
