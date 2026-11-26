@@ -19,11 +19,18 @@ Similarly, `K espère que M ne viendra pas` implies both:
 - `K désire que M ne vienne pas`
 - `K croit qu’il est incertain que M vienne`
 
-The antonym of `espérer` is probably `craindre`:
+In other words, hope is desire plus uncertainty.
+
+The antonym of `espérer` is probably [craindre](../../../c/cr/cra/craindre.md):
 - `K craint que M ne vienne` mutually implies `K espère que M ne viendra pas`
 - `K craint que M ne vienne pas` mutually implies `K espère que M viendra`
-  
 
+So, fear is aversion (anti-desire) plus uncertainty.
+
+On the other hand, [désespérer](../../../d/de/des/désespérer.md) is desire plus futility:
+- `K désespère de voir M venir` implies both:
+  - `K désire que M vienne`
+  - `K crois que M ne viendra pas`
 
 ---
 
