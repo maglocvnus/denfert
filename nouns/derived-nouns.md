@@ -4,6 +4,7 @@
 - [**destin**](d/de/des/destin.md) *masc.* ‘destiny, fate’
 - [**employé**](e/em/emp/employé.md) *masc.* ‘an employee, a clerk’
 - [**espérance**](e/es/esp/espérance.md) *fem.* ‘a hope’
+- [**espoir**](e/es/esp/espoir.md) *masc.* ‘hope’
 - **[façade](f/fa/fac/façade.md)** *fem.* ‘a facade’
 - **[maraîcher](m/ma/mar/maraîcher.md)** *masc.* ‘a vegetable grower’
 - **[maraîchage](m/ma/mar/maraîchage.md)** *masc.* ‘early season fruit and vegetable farming’
