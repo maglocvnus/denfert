@@ -1,5 +1,6 @@
 # Derived verbs
 
+- [**acquérir**](a/ac/acq/acquérir.md) *vb.* ‘acquire, obtain’
 - [**charmer**](c/ch/cha/charmer.md) *vb.* ‘charm’
 - [**commettre**](c/co/com/commettre.md) *vb.* ‘commit’
 - [**comprendre**](c/co/com/comprendre.md) *vb.* ‘understand, realise’
