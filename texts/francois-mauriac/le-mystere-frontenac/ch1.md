@@ -11,6 +11,8 @@ Xavier Frontenac cast a timid glance at his sister-in-law, who was knitting, sit
 
 His eyes settled on the great four-poster bed with its twisted columns, where, eight years earlier, his elder brother, Michel Frontenac, had endured that interminable death agony. He saw again the head thrown back, the enormous neck engulfed by the thick growth of a vigorous young beard; the tireless June flies that he had been unable to brush away from that sweating face. Nowadays, they would have attempted to operate on his skull; perhaps they would have saved him. Michel would be here. He would be here... Xavier could no longer tear his eyes away from the bed or from those walls. And yet it was not in this apartment that his brother had breathed his last: eight days after the funeral, Blanche Frontenac, with her five children, had left the house in the Rue Vital-Carles and taken refuge on the third floor of the townhouse in the Rue de Cursol where her mother, Madame Arnaud-Miqueu, lived.
 
+But the same curtains, with their yellow flowers on a blue background, adorned the windows and the bed. The chest of drawers and the wardrobe stood facing each other, as they had in the old bedroom. On the mantelpiece, the same bronze lady, dressed in a high-necked gown with long sleeves, represented Faith. Only the lamp had changed: Madame Frontenac had acquired a new model which the whole family admired. An alabaster column supported the crystal reservoir, in which the wick, like a broad tapeworm, lay immersed in paraffin. The flame divided into numerous glowing petals. The lampshade was a profusion of cream-coloured lace, embellished with a bouquet of artificial violets.
+
 <a id="p3"></a>
 > Cette merveille attirait les enfants avides de lecture.
 
