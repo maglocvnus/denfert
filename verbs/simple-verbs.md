@@ -20,6 +20,7 @@
 - [**naître**](n/na/nai/naître.md) *vb.* ‘be born’
 - [**passer**](p/pa/pas/passer.md) *vb.* ‘pass, go through/past’
 - [**pouvoir**](p/po/pou/pouvoir.md) *vb.* ‘be able to, can’
+- [**quérir**](q/qu/que/quérir.md) *vb.* ‘seek’
 - [**soupirer**](s/so/sou/soupirer.md) *vb.* ‘sigh’
 - [**tirer**](t/ti/tir/tirer.md) *vb.* ‘pull, draw’
 - [**tourner**](t/to/tou/tourner.md) *vb.* ‘turn, go around’
