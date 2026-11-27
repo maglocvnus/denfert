@@ -1,6 +1,6 @@
 # acquérir
 
-`acquérir` ‘acquire, obtain, purchase’ is a derived verb.
+`acquérir` ‘acquire, obtain, purchase’ is a [derived verb](../../../derived-verbs.md).
 
 *qv.* [**quérir**](../../../q/qu/que/quérir.md) *vb.* ‘seek’
 
