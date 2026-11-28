@@ -11,7 +11,8 @@
 - [**erreur**](e/er/err/erreur.md) *fem.* ‘an error, a mistake’
 - **[face](f/fa/fac/face.md)** *fem.* ‘a face’
 - **[famille](f/fa/fam/famille.md)** *fem.* ‘a family’
-- **[fille](f/fi/fil/fille.md)** *fem.* ‘a girl, a young woman’
+- [**fille**](f/fi/fil/fille.md) *fem.* ‘a girl, a young woman’
+- [**lampe**](l/la/lam/lampe.md) *fem.* ‘a lamp’
 - **[lieu](l/li/lie/lieu.md)** *masc.* ‘a place’
 - **[ligne](l/li/lig/ligne.md)** *fem.* ‘a line’
 - [**lit**](l/li/lit/lit.md) *masc.* ‘a bed’
