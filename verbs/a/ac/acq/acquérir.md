@@ -6,7 +6,7 @@
 
 Pluperfect examples:
 
-> Seule, la lampe avait changé : Mme Frontenac avait <mark>acquis</mark> un [modèle](../../../../nouns/m/mo/mod/modèle.md) nouveau que toute la famille admirait. ([*François Mauriac*](../../../../texts/francois-mauriac/le-mystere-frontenac/ch1.md#p2))
+> Seule, la [lampe](../../../../nouns/l/la/lam/lampe.md) avait changé : Mme Frontenac avait <mark>acquis</mark> un [modèle](../../../../nouns/m/mo/mod/modèle.md) nouveau que toute la famille admirait. ([*François Mauriac*](../../../../texts/francois-mauriac/le-mystere-frontenac/ch1.md#p2))
 > > *‘she had acquired a new model of lamp’*
 
 ----
